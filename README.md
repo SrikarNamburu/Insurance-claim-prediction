@@ -1,12 +1,6 @@
 # Insurance-claim-prediction
 Predicting the Claim size of Liability Insurance claims
 
-
-#####Message me for Dataset!!!#####
-mail - srikar051997@gmail.com
-
-
-
 Data:
 
 Train.csv (14418 rows, 2columns) & Test.csv (4806 rows) (ClaimID and Target attribute: ”ClaimSize”, but Test.csv doesn’t have Target attribute as it is to be predicted)
