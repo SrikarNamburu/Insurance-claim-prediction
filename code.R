@@ -1,6 +1,6 @@
 rm(list=ls(all=TRUE))
 
-setwd("D:/INSOFE/Exams/MiTh")
+setwd("")
 #reading the.csv files
 train_policy_demographics = read.csv("Train_Policy_Demographics-1542969243754.CSV")
 train_claim_details = read.csv("Train_ClaimDetails-1542969243754.csv")
